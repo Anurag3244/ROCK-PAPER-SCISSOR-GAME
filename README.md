@@ -21,43 +21,43 @@ The player competes against the computer, which randomly selects Rock, Paper, or
 # ⚡ Features
 
 ✅ User vs Computer gameplay
+
 ✅ Randomized computer choices
+
 ✅ Winner detection logic
-✅ Replay functionality (optional if you added loop)
+
+✅ Replay functionality 
+
 ✅ Beginner-friendly project
 
 # 🚀 How to Run
 
-Clone this repository:
+1. Clone this repository:
 
-git clone https://github.com/your-username/Rock-Paper-Scissors-Java.git
-
-
-Open the file in any Java IDE (IntelliJ, Eclipse, VS Code) or terminal.
-
-Compile the program:
-
-javac Exercise_Project2_RPS.java
+* git clone https://github.com/your-username/Rock-Paper-Scissors-Java.git
 
 
-Run the program:
+2. Open the file in any Java IDE (IntelliJ, Eclipse, VS Code) or terminal.
 
-java Exercise_Project2_RPS
+* Compile the program:
 
-# 📷 Demo (Optional)
+* javac Exercise_Project2_RPS.java
 
-You can add a screenshot or GIF of the console output here. Example:
 
-Enter your choice (0: Rock, 1: Paper, 2: Scissors): 1
-Computer chose: Rock
-You Win! 🎉
+3. Run the program:
+
+* java Exercise_Project2_RPS
+
+# 📷 Demo 
+
+
 
 # 📈 Future Scope
 
-Add a GUI version using Java Swing/JavaFX
+* Add a GUI version using Java Swing/JavaFX
 
-Keep track of scores across multiple rounds
+* Keep track of scores across multiple rounds
 
-Add a best-of series mode (e.g., best of 3, 5, etc.)
+* Add a best-of series mode (e.g., best of 3, 5, etc.)
 
-Implement with Spring Boot REST API to play online
+* Implement with Spring Boot REST API to play online
