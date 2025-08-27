@@ -50,11 +50,11 @@ The player competes against the computer, which randomly selects Rock, Paper, or
 
 # 📷 Demo 
 
-![DEMO-1 of the RPS-GAME]([Screenshot 2025-08-27 135709.png](https://github.com/Anurag3244/ROCK-PAPER-SCISSOR-GAME/blob/main/Screenshot%202025-08-27%20135709.png))
+([DEMO-1 of the RPS-GAME](https://github.com/Anurag3244/ROCK-PAPER-SCISSOR-GAME/blob/main/Screenshot%202025-08-27%20135709.png))
 
-![DEMO-2 of the RPS-GAME](Screenshot 2025-08-27 135806.png)
+([DEMO-2 of the RPS-GAME](https://github.com/Anurag3244/ROCK-PAPER-SCISSOR-GAME/blob/main/Screenshot%202025-08-27%20135806.png))
 
-![DEMO-3 of the RPS-GAME](Screenshot 2025-08-27 140107.png)
+([DEMO-3 of the RPS-GAME](https://github.com/Anurag3244/ROCK-PAPER-SCISSOR-GAME/blob/main/Screenshot%202025-08-27%20140107.png))
 
 
 # 📈 Future Scope
