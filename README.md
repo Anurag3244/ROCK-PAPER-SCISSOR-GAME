@@ -34,7 +34,7 @@ The player competes against the computer, which randomly selects Rock, Paper, or
 
 1. Clone this repository:
 
-* git clone https://github.com/your-username/Rock-Paper-Scissors-Java.git
+* git clone [REPO Link](https://github.com/Anurag3244/ROCK-PAPER-SCISSOR-GAME/tree/main)
 
 
 2. Open the file in any Java IDE (IntelliJ, Eclipse, VS Code) or terminal.
