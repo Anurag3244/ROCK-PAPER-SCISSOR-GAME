@@ -49,6 +49,9 @@ The player competes against the computer, which randomly selects Rock, Paper, or
 * java Exercise_Project2_RPS
 
 # 📷 Demo 
+![DEMO-1 of the RPS-GAME](Screenshot 2025-08-27 135709.png)
+![DEMO-2 of the RPS-GAME](Screenshot 2025-08-27 135806.png)
+![DEMO-3 of the RPS-GAME](Screenshot 2025-08-27 140107.png)
 
 
 
